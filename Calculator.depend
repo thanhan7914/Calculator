@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1456998378 source:d:\workspace\codeblock\calculator\cal.cpp
+	<iostream>
+	<stdio.h>
+	"Calculate.h"
+
+1456888761 source:d:\workspace\codeblock\calculator\src\stack.cpp
+	"Stack.h"
+
+1456888761 d:\workspace\codeblock\calculator\include\stack.h
+
+1456889177 source:d:\workspace\codeblock\calculator\src\queue.cpp
+	"Queue.h"
+
+1456889186 d:\workspace\codeblock\calculator\include\queue.h
+
+1456997232 source:d:\workspace\codeblock\calculator\src\analys.cpp
+	"Analys.h"
+
+1456996843 d:\workspace\codeblock\calculator\include\analys.h
+	"Stack.h"
+	"Stackf.h"
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<math.h>
+
+1456915677 source:d:\workspace\codeblock\calculator\src\hasktable.cpp
+	"Hasktable.h"
+	<iostream>
+
+1456915396 d:\workspace\codeblock\calculator\include\hasktable.h
+	<string.h>
+
+1456918346 source:d:\workspace\codeblock\calculator\src\relative.cpp
+	"Relative.h"
+
+1456918056 d:\workspace\codeblock\calculator\include\relative.h
+	<string.h>
+
+1456919958 source:d:\workspace\codeblock\calculator\src\stackf.cpp
+	"Stackf.h"
+
+1456919958 d:\workspace\codeblock\calculator\include\stackf.h
+
+1456997857 source:d:\workspace\codeblock\calculator\src\calculate.cpp
+	"Calculate.h"
+
+1456992285 d:\workspace\codeblock\calculator\include\calculate.h
+	<math.h>
+	"Stack.h"
+	"Stackf.h"
+	"Queue.h"
+	"Analys.h"
+
+1456936783 d:\workspace\codeblock\calculator\include\string.h
+
