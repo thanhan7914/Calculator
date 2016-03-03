@@ -39,7 +39,7 @@ int main(int argc,char** argv)
     }
     else
     {
-        cout <<"Nhap bieu thuc(-h tro giup): ";
+        cout <<"Calculator(type -h help): ";
         char token[256];
         gets(token);
         fflush(stdin);
